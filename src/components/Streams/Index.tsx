@@ -10,7 +10,8 @@ export default function Streams() {
         campeonatos!
       </p>
       <iframe
-        src="https://player.twitch.tv/?channel=omanager1&parent=https://stomp-academy.vercel.app/Contato"
+        title="omanager stream"
+        src="https://player.twitch.tv/?channel=omanager1&parent=stompacademy.vercel.app"
         frameBorder="0"
         allowFullScreen={true}
         scrolling="no"
