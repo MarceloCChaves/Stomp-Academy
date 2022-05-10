@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Stomp-Academy/static/css/main.83216d16.css",
+    "main.js": "/Stomp-Academy/static/js/main.32cc3ca6.js",
+    "static/media/Maiara.png": "/Stomp-Academy/static/media/Maiara.a38270482f7209ebd8d6.png",
+    "static/media/Beatriz.png": "/Stomp-Academy/static/media/Beatriz.d3ad1a9ab1977aecc46e.png",
+    "static/media/Henrique.png": "/Stomp-Academy/static/media/Henrique.5eb20bbbd5a0a7eba4dc.png",
+    "static/media/Phabio.png": "/Stomp-Academy/static/media/Phabio.0b894dc9249c8114a17f.png",
+    "static/media/Flex.webp": "/Stomp-Academy/static/media/Flex.84d754115f1c6c27b4fd.webp",
+    "static/media/Luidy.webp": "/Stomp-Academy/static/media/Luidy.5a43f6d03adbb1321dfe.webp",
+    "static/media/Dan.webp": "/Stomp-Academy/static/media/Dan.611d2ae012e79c0ff10a.webp",
+    "static/media/Lucas.webp": "/Stomp-Academy/static/media/Lucas.7c24670716cefa0d66dc.webp",
+    "static/media/Marcelo.webp": "/Stomp-Academy/static/media/Marcelo.0416aec747e4ac2d01af.webp",
+    "static/media/Logo.webp": "/Stomp-Academy/static/media/Logo.2e815c58aff5a5ad4f1d.webp",
+    "index.html": "/Stomp-Academy/index.html",
+    "main.83216d16.css.map": "/Stomp-Academy/static/css/main.83216d16.css.map",
+    "main.32cc3ca6.js.map": "/Stomp-Academy/static/js/main.32cc3ca6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83216d16.css",
+    "static/js/main.32cc3ca6.js"
+  ]
+}
