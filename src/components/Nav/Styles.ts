@@ -6,7 +6,7 @@ export const Nav = styled.nav`
   max-height: 100%;
   display: flex;
   justify-content: space-around;
-  background: url("https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt8979808f7798ecf5/6216ee875fe07272a8a2447a/2021_Key_art.jpg");
+  background: url("https://i.imgur.com/euiGUmZ.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: 100%;

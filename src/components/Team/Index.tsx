@@ -89,8 +89,8 @@ export default function Team() {
               <img src={Beatriz} alt="Beatriz"/>
             </div>
             <div className="info">
-              <p>Anna Beatriz</p>
-              <span>Nutricionista Esportiva</span>
+              <p>Beatriz</p>
+              <span>Apoio nutricional</span>
             </div>
           </section>
         </Owner>
