@@ -34,6 +34,7 @@ export default function Navbar() {
         <NavItems>
           <Title><Link to="/">PÁGINA INICIAL</Link></Title>
           <Title><Link to="/Contato">CONTATO</Link></Title>
+          <Title><Link to="/Time">LINEUPS</Link></Title>
         </NavItems>
       </Nav>
     </div>

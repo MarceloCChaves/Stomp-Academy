@@ -41,6 +41,8 @@ export default function RightNav({ open }: any) {
       <strong><Link to="/">PÁGINA INICIAL</Link></strong>
       <hr/>
       <strong><Link to="/Contato">CONTATO</Link></strong>
+      <hr/>
+      <strong><Link to="/Time">LINEUPS</Link></strong>
     </Ul>
   )
 }
