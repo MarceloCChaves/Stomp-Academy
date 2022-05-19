@@ -7,12 +7,13 @@ import { Link } from "react-router-dom";
 export default function Navbar() {
   const Title = styled.strong`
   display: flex;
-  padding: 40px;
+  height: 50px;
   font-family: 'Montserrat', sans-serif;
 
   a{
     color: #fff;
     text-decoration: none;
+    padding: 40px;
   }
   
   @media(max-width: 768px){
@@ -33,8 +34,9 @@ export default function Navbar() {
         <Burguer />
         <NavItems>
           <Title><Link to="/">PÁGINA INICIAL</Link></Title>
-          <Title><Link to="/Contato">CONTATO</Link></Title>
           <Title><Link to="/Time">LINEUPS</Link></Title>
+          <Title><Link to="/Seletivas">SELETIVAS</Link></Title>
+          <Title><Link to="/Contato">CONTATO</Link></Title>
         </NavItems>
       </Nav>
     </div>

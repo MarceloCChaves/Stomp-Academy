@@ -40,9 +40,11 @@ export default function RightNav({ open }: any) {
     <Ul open={open}>
       <strong><Link to="/">PÁGINA INICIAL</Link></strong>
       <hr/>
-      <strong><Link to="/Contato">CONTATO</Link></strong>
-      <hr/>
       <strong><Link to="/Time">LINEUPS</Link></strong>
+      <hr/>
+      <strong><Link to="/Seletivas">SELETIVAS</Link></strong>
+      <hr/>
+      <strong><Link to="/Contato">CONTATO</Link></strong>
     </Ul>
   )
 }
