@@ -7,7 +7,7 @@ export const Nav = styled.nav`
   display: flex;
   justify-content: space-around;
   /* background: url("https://i.imgur.com/euiGUmZ.jpg"); */
-  background: url("https://cdn.discordapp.com/attachments/971889674903760896/976241451241472081/Instagram_post_-_9.png");
+  background: url("https://i.imgur.com/euiGUmZ.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: 100%;
